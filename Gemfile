@@ -37,6 +37,7 @@ gem "jbuilder"
 gem "devise"
 gem 'devise-bootstrap-views', '~> 1.0'
 gem "iex-ruby-client"
+gem "font-awesome-rails"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ windows jruby ]
@@ -48,6 +49,7 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 gem "cssbundling-rails"
+gem "sass-rails"
 
 
 group :development, :test do
